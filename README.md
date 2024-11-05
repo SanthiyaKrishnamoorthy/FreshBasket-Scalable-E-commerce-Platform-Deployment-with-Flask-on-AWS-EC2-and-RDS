@@ -1,7 +1,7 @@
 # FreshBasket-Scalable-E-commerce-Platform-Deployment-with-Flask-on-AWS-EC2-and-RDS
 
-Table of Contents
-Project Overview
+#Table of Contents
+#Project Overview
 Features
 Architecture
 
